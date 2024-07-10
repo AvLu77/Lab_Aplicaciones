@@ -1,0 +1,38 @@
+{"Personas": "Mi familia",
+    "Lista": [
+        {
+        "Nombre": "Eze",
+        "númerof": "12",
+        "Trabajo": true,
+        "Nacimiento": "1977-02-07"
+        }, 
+
+        {
+        "Nombre": "Pao",
+        "númerof": "8",
+        "Trabajo": true,
+        "Nacimiento": "1975-10-31"
+        },
+
+        {
+        "Nombre": "Avi",
+        "númerof": "7",
+        "Trabajo": false,
+        "Nacimiento": "2005-07-07"
+        }, 
+
+        {
+        "Nombre": "Dani",
+        "númerof": "9",
+        "Trabajo": false,
+        "Nacimiento": "2009-04-30"
+        },
+        
+        {
+        "Nombre": "Dai",
+        "númerof": "77",
+        "Trabajo": false,
+        "Nacimiento": "2010-09-26"
+        }
+    ]
+    }
